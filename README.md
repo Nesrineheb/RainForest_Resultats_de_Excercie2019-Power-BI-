@@ -17,21 +17,21 @@ In this training, I discovered Power BI, Microsoft's solution for analyzing, vie
 ![Dashboard final page](Capt/DashboardBI.png)
 
 * The Dashbord filtred exemple
-![Dashboard filtred page](/capt/dashboard_filter.png)
+![Dashboard filtred page](Capt/dashboard_filter.png)
 
 * Interactif Dashboard
 
-![Dashboard interactif page](/capt/Dahboard_interactif_button.png)
+![Dashboard interactif page](Capt/Dahboard_interactif_button.png)
 
 *The Dashbord button open exemple
-![Dashboard button page](/capt/Dshboard_interactif_button_open.png)
+![Dashboard button page](Capt/Dshboard_interactif_button_open.png)
 
 *The Dashbord button open with filter exemple
-![Dashboard button filter page](/capt/menu_buttonOpen_filtredselect.png)
+![Dashboard button filter page](Capt/menu_buttonOpen_filtredselect.png)
 
 *The Map details open. 
-![Map chart](/capt/details_mapopen.png)
+![Map chart](Capt/details_mapopen.png)
 
 
 *The Map details. 
-![Map details chart](/capt/map_details.png)
+![Map details chart](Capt/map_details.png)
