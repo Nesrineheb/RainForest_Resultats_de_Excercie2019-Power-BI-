@@ -14,7 +14,7 @@ In this training, I discovered Power BI, Microsoft's solution for analyzing, vie
 # Charts and Dasboard Screenshots
 
 * The Final Dashbord
-![Dashboard final page](https://github.com/Nesrineheb/RainForest_Resultats_de_Excercie2019/capt/DashboardBI.png)
+![Dashboard final page](capt/DashboardBI.png)
 
 * The Dashbord filtred exemple
 ![Dashboard filtred page](/capt/dashboard_filter.png)
