@@ -14,11 +14,24 @@ In this training, I discovered Power BI, Microsoft's solution for analyzing, vie
 # Charts and Dasboard Screenshots
 
 * The Final Dashbord
-![Dashboard page](capt/DashboardBI.png)
+![Dashboard final page](/capt/DashboardBI.png)
 
 * The Dashbord filtred exemple
-![Dashboard page](capt/dashboard_filter.png)
+![Dashboard filtred page](/capt/dashboard_filter.png)
 
 * Interactif Dashboard
-** The Dashbord filtred exemple
-![Dashboard page](capt/dashboard_filter.png)
+
+![Dashboard interactif page](/capt/Dahboard_interactif_button.png)
+
+*The Dashbord button open exemple
+![Dashboard button page](/capt/Dshboard_interactif_button_open.png)
+
+*The Dashbord button open with filter exemple
+![Dashboard button filter page](/capt/menu_buttonOpen_filtredselect.png)
+
+*The Map details open. 
+![Map chart](/capt/details_mapopen.png)
+
+
+*The Map details. 
+![Map details chart](/capt/map_details.png)
