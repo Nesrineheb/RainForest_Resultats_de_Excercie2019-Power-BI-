@@ -11,7 +11,7 @@ In this training, I discovered Power BI, Microsoft's solution for analyzing, vie
 
 
 
-# Charts and Dasboard Screenshots
+# Charts and Dashboard Screenshots
 
 * The Final Dashbord
 ![Dashboard final page](Capt/DashboardBI.png)
